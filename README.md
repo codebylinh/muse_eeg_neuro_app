@@ -98,4 +98,3 @@ To run this project locally, you will need a Muse 2 Headband and a Bluetooth-ena
 
 ---
 
-<div align="center"> <p><i>Built with 🧠 at NatHacks</i></p> </div>
