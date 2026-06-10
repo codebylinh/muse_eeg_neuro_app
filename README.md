@@ -77,7 +77,7 @@ To run this project locally, you will need a Muse 2 Headband and a Bluetooth-ena
 
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/codebylinh/NeuroSync.git](https://github.com/iam-tanveer/NeuroSync.git](https://github.com/codebylinh/muse_eeg_neuro_app.git)
+   git clone https://github.com/codebylinh/NeuroSync.git
    cd NeuroSync
 
 2. **Start the Backend**
